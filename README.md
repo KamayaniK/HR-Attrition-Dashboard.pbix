@@ -92,3 +92,20 @@ Interactive slicers allow dynamic filtering by:
 ---
 
 ## 📂 Repository Structure
+
+
+---
+
+## 🚀 Future Improvements
+- Hyperparameter tuning
+- Implement Random Forest / XGBoost
+- Deploy ML model using Streamlit
+- Add feature importance visualization
+- Build real-time dashboard version
+
+---
+
+## 👩‍💻 Author
+Kamayani K  
+Aspiring Data Analyst | MBA (Big Data Analytics) Candidate  
+
